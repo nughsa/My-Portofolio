@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="960" y2="720" gradientUnits="userSpaceOnUse"><stop stop-color="#E7EDF2"/><stop offset="1" stop-color="#DDE5E9"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#547A95"/><stop offset="1" stop-color="#C2A56D"/></linearGradient></defs>
+  <rect width="960" height="720" fill="url(#bg)"/><circle cx="214" cy="550" r="174" fill="#fff" fill-opacity=".28"/><rect x="90" y="98" width="780" height="524" rx="24" fill="#fff" fill-opacity=".85"/>
+  <path d="M224 473h512" stroke="#D7DFE6" stroke-width="3"/><path d="M224 410h512M224 347h512M224 284h512" stroke="#D7DFE6" stroke-width="2" stroke-dasharray="7 9"/>
+  <path d="m264 434 86-65 82 25 95-115 92 32 94-91" stroke="url(#line)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/><circle cx="264" cy="434" r="11" fill="#547A95"/><circle cx="350" cy="369" r="11" fill="#547A95"/><circle cx="432" cy="394" r="11" fill="#547A95"/><circle cx="527" cy="279" r="11" fill="#547A95"/><circle cx="619" cy="311" r="11" fill="#547A95"/><circle cx="713" cy="220" r="11" fill="#C2A56D"/>
+  <rect x="343" y="170" width="274" height="52" rx="12" fill="#2C3947"/><circle cx="374" cy="196" r="7" fill="#C2A56D"/><path d="M398 196h190" stroke="#fff" stroke-opacity=".8" stroke-width="9" stroke-linecap="round"/>
+  <text x="480" y="552" fill="#547A95" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3" text-anchor="middle">ILUSTRASI PLACEHOLDER</text>
+</svg>

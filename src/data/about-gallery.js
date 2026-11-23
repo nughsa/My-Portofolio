@@ -1,0 +1,37 @@
+export const aboutGallerySlides = [
+  {
+    id: "academic",
+    category: "Pendidikan",
+    caption: "Perjalanan Akademik",
+    image: "./images/about/after-sidang.jpeg",
+    alt: "Ilustrasi placeholder bertema perjalanan akademik Teknik Informatika; bukan dokumentasi asli.",
+    order: 1,
+  },
+  {
+    id: "work",
+    category: "Pengalaman",
+    caption: "Pengalaman Magang",
+    image: "./images/about/magang.jpeg",
+    alt: "Ilustrasi placeholder bertema pengelolaan administrasi dan data; bukan dokumentasi asli.",
+    order: 2,
+  },
+  {
+    id: "training",
+    category: "Pelatihan",
+    caption: "Pelatihan Data Analyst",
+    image: "./images/about/ppkd.jpeg",
+    alt: "Ilustrasi placeholder bertema pelatihan kompetensi Data Analyst; bukan dokumentasi asli.",
+    order: 3,
+  },
+  {
+    id: "project",
+    category: "Proyek",
+    caption: "Project Pekan Kreativitas Mahasiswa",
+    image: "./images/about/phkm.jpeg",
+    alt: "Ilustrasi placeholder bertema eksplorasi data dan dashboard; bukan dokumentasi asli.",
+    order: 4,
+    objectFit: "contain",
+    objectPosition: "center center",
+    backgroundColor: "#417d89d7",
+  },
+];

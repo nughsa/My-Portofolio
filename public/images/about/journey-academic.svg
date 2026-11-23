@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="960" y2="720" gradientUnits="userSpaceOnUse"><stop stop-color="#E8EDF2"/><stop offset="1" stop-color="#D5E0E8"/></linearGradient></defs>
+  <rect width="960" height="720" fill="url(#bg)"/><circle cx="748" cy="160" r="176" fill="#fff" fill-opacity=".26"/><circle cx="748" cy="160" r="126" stroke="#547A95" stroke-opacity=".16" stroke-width="2"/>
+  <rect x="90" y="98" width="780" height="524" rx="24" fill="#fff" fill-opacity=".82"/><path d="m286 329 194-106 194 106-194 106-194-106Z" fill="#547A95"/><path d="M354 368v104c73 48 173 48 246 0V368" stroke="#2C3947" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/><path d="M674 329v120" stroke="#C2A56D" stroke-width="12" stroke-linecap="round"/><circle cx="674" cy="465" r="18" fill="#C2A56D"/>
+  <rect x="293" y="518" width="374" height="4" rx="2" fill="#547A95" fill-opacity=".18"/><text x="480" y="562" fill="#547A95" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3" text-anchor="middle">ILUSTRASI PLACEHOLDER</text>
+</svg>
